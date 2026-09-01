@@ -1,0 +1,64 @@
+about:
+  description: The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+  license: MIT
+  homepage: https://ecc.tools
+  head: ca185ef
+  archived: false
+  latestVersion: v2.2.0
+  collectedAt: 2026-09-01T05:46:02Z
+timeline:
+  created: 2026-01-18
+  lastCommit: 2026-08-31
+  lastRelease: 2026-08-28
+popularity:
+  star: 245366
+  watcher: 1262
+  fork: 37060
+  release: 16
+  contributor: 339
+  pullRequest: 1035
+  issue: 730
+language:
+  JavaScript: 6414381
+  Rust: 1895316
+  Python: 415220
+  Shell: 215050
+  TypeScript: 102627
+  Swift: 8371
+  CSS: 4037
+  PowerShell: 1547
+  Dockerfile: 1312
+totalLine: 9057861
+recent:
+  last30d:
+    since: 2026-08-02
+    release: 1
+    mergedPR: 59
+    openPR: 64
+    closedIssue: 21
+    openIssue: 28
+    commit: 197
+  last90d:
+    since: 2026-06-03
+    release: 3
+    mergedPR: 295
+    openPR: 83
+    closedIssue: 117
+    openIssue: 41
+    commit: 509
+  last180d:
+    since: 2026-03-05
+    release: 7
+    mergedPR: 917
+    openPR: 83
+    closedIssue: 558
+    openIssue: 42
+    commit: 1895
+  last360d:
+    since: 2025-09-06
+    release: 16
+    mergedPR: 1014
+    openPR: 83
+    closedIssue: 687
+    openIssue: 42
+    commit: 2345
