@@ -7,15 +7,15 @@ about:
   head: e04ea0b
   archived: false
   latestVersion: v2.2.0
-  collectedAt: 2026-09-04T20:18:44Z
+  collectedAt: 2026-09-04T20:25:37Z
 timeline:
   created: 2026-01-18
   lastCommit: 2026-09-03
   lastRelease: 2026-08-28
 popularity:
-  star: 248315
+  star: 248320
   watcher: 1276
-  fork: 37429
+  fork: 37430
   release: 16
   contributor: 340
   pullRequest: 2085
@@ -89,7 +89,7 @@ total:
   commit: 2631
 ---
 path: /home/runner/.x-repo/github.com/affaan-m/ECC
-collectedAt: 2026-09-04T20:18:46Z
+collectedAt: 2026-09-04T20:25:40Z
 loc:
   JavaScript:
     code: 149546
