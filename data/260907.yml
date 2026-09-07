@@ -5,18 +5,18 @@ about:
   head: e04ea0b
   archived: false
   latestVersion: "v2.2.0"
-  collectedAt: 2026-09-07T04:23:41Z
+  collectedAt: 2026-09-07T19:59:17Z
 timeline:
   created: 2026-01-18
   lastCommit: 2026-09-03
   lastRelease: 2026-08-28
 popularity:
-  star: 251648
-  watcher: 1291
-  fork: 37818
+  star: 252643
+  watcher: 1288
+  fork: 37907
   release: 16
   contributor: 340
-  pullRequest: 2113
+  pullRequest: 2122
   issue: 744
 language:
   JavaScript: 6422361
@@ -34,60 +34,60 @@ recent:
     since: 2026-08-08
     release: 1
     mergedPR: 39
-    openPR: 93
-    closedIssue: 19
-    openIssue: 34
+    openPR: 102
+    closedIssue: 20
+    openIssue: 33
     commit: 134
   last60d:
     since: 2026-07-09
     release: 2
     mergedPR: 124
-    openPR: 115
-    closedIssue: 49
-    openIssue: 46
+    openPR: 121
+    closedIssue: 50
+    openIssue: 45
     commit: 325
   last90d:
     since: 2026-06-09
     release: 3
     mergedPR: 263
-    openPR: 120
-    closedIssue: 110
-    openIssue: 51
+    openPR: 126
+    closedIssue: 111
+    openIssue: 50
     commit: 459
   last180d:
     since: 2026-03-11
     release: 6
     mergedPR: 898
-    openPR: 120
-    closedIssue: 542
-    openIssue: 52
+    openPR: 126
+    closedIssue: 543
+    openIssue: 51
     commit: 1806
   last360d:
     since: 2025-09-12
     release: 16
     mergedPR: 1023
-    openPR: 120
-    closedIssue: 691
-    openIssue: 52
+    openPR: 126
+    closedIssue: 692
+    openIssue: 51
     commit: 2359
   last720d:
     since: 2024-09-17
     release: 16
     mergedPR: 1023
-    openPR: 120
-    closedIssue: 691
-    openIssue: 52
+    openPR: 126
+    closedIssue: 692
+    openIssue: 51
     commit: 2631
 total:
   release: 16
   mergedPR: 1026
-  openPR: 120
-  closedIssue: 692
-  openIssue: 52
+  openPR: 126
+  closedIssue: 693
+  openIssue: 51
   commit: 2631
 ---
 path: /home/runner/.x-repo/github.com/affaan-m/ECC
-collectedAt: 2026-09-07T04:23:46Z
+collectedAt: 2026-09-07T19:59:22Z
 loc:
   JavaScript:
     code: 149546
@@ -178,7 +178,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T04:23:48+00:00
+  collectedAt: 2026-09-07T19:59:23+00:00
   platform:
     darwin/arm64:
       name:  null
