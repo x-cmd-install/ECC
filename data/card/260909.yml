@@ -1,0 +1,183 @@
+about:
+  description: "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
+  license: MIT
+  homepage: https://ecc.tools
+  head: 5064474
+  archived: false
+  latestVersion: "v2.2.1"
+  latestRelease: "v2.2.1"
+  latestPrerelease: "v2.0.0-rc.1"
+  collectedAt: 2026-09-09T04:28:03Z
+timeline:
+  created: 2026-01-18
+  lastCommit: 2026-09-07
+  lastVersion: 2026-09-08
+  lastRelease: 2026-09-08
+  lastPrerelease: 2026-05-25
+popularity:
+  star: 254446
+  watcher: 1292
+  fork: 38125
+  release: 17
+  contributor: 344
+  pullRequest: 2139
+  issue: 752
+language:
+  JavaScript: 6750502
+  Rust: 1895316
+  Python: 415220
+  Shell: 221153
+  TypeScript: 103172
+  Swift: 8371
+  CSS: 4037
+  PowerShell: 1547
+  Dockerfile: 1312
+totalBytes: 9400630
+recent:
+  last30d:
+    since: 2026-08-10
+    release: 2
+    mergedPR: 37
+    openPR: 110
+    closedIssue: 22
+    openIssue: 33
+    commit: 164
+  last60d:
+    since: 2026-07-11
+    release: 3
+    mergedPR: 120
+    openPR: 130
+    closedIssue: 57
+    openIssue: 45
+    commit: 355
+  last90d:
+    since: 2026-06-11
+    release: 3
+    mergedPR: 244
+    openPR: 137
+    closedIssue: 114
+    openIssue: 50
+    commit: 489
+  last180d:
+    since: 2026-03-13
+    release: 7
+    mergedPR: 889
+    openPR: 137
+    closedIssue: 540
+    openIssue: 51
+    commit: 1836
+  last360d:
+    since: 2025-09-14
+    release: 17
+    mergedPR: 1027
+    openPR: 137
+    closedIssue: 700
+    openIssue: 51
+    commit: 2389
+  last720d:
+    since: 2024-09-19
+    release: 17
+    mergedPR: 1027
+    openPR: 137
+    closedIssue: 700
+    openIssue: 51
+    commit: 2667
+total:
+  release: 17
+  mergedPR: 1030
+  openPR: 137
+  closedIssue: 701
+  openIssue: 51
+  commit: 2667
+---
+path: /home/runner/.x-repo/github.com/affaan-m/ECC
+collectedAt: 2026-09-09T04:28:08Z
+loc:
+  JavaScript:
+    code: 157453
+    comments: 8555
+    blanks: 18571
+    files: 547
+  Rust:
+    code: 49662
+    comments: 10
+    blanks: 4156
+    files: 17
+  Json:
+    code: 10905
+    comments: 0
+    blanks: 0
+    files: 65
+  Python:
+    code: 8938
+    comments: 480
+    blanks: 2104
+    files: 63
+  Sh:
+    code: 3972
+    comments: 710
+    blanks: 629
+    files: 27
+  TypeScript:
+    code: 468
+    comments: 309
+    blanks: 142
+    files: 5
+  Yaml:
+    code: 402
+    comments: 0
+    blanks: 12
+    files: 7
+  Tsx:
+    code: 342
+    comments: 6
+    blanks: 33
+    files: 3
+  PowerShell:
+    code: 287
+    comments: 77
+    blanks: 43
+    files: 3
+  Swift:
+    code: 225
+    comments: 4
+    blanks: 29
+    files: 1
+  Bash:
+    code: 167
+    comments: 11
+    blanks: 35
+    files: 2
+  Svg:
+    code: 160
+    comments: 0
+    blanks: 0
+    files: 10
+  Toml:
+    code: 121
+    comments: 16
+    blanks: 27
+    files: 4
+  Css:
+    code: 102
+    comments: 30
+    blanks: 21
+    files: 1
+  Dockerfile:
+    code: 34
+    comments: 0
+    blanks: 10
+    files: 1
+  Markdown:
+    code: 0
+    comments: 194898
+    blanks: 78607
+    files: 2251
+total:
+  code: 328733
+  comments: 226510
+  blanks: 123767
+  files: 3007
+---
+
+---
