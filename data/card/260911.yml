@@ -7,7 +7,7 @@ about:
   latestVersion: "v2.2.1"
   latestRelease: "v2.2.1"
   latestPrerelease: "v2.0.0-rc.1"
-  collectedAt: 2026-09-11T04:26:47Z
+  collectedAt: 2026-09-11T20:46:44Z
 timeline:
   created: 2026-01-18
   lastCommit: 2026-09-10
@@ -15,13 +15,13 @@ timeline:
   lastRelease: 2026-09-08
   lastPrerelease: 2026-05-25
 popularity:
-  star: 255982
-  watcher: 1295
-  fork: 38312
+  star: 256442
+  watcher: 1300
+  fork: 38371
   release: 17
   contributor: 352
-  pullRequest: 2170
-  issue: 760
+  pullRequest: 2177
+  issue: 764
 language:
   JavaScript: 7012045
   Rust: 1895266
@@ -39,60 +39,60 @@ recent:
     since: 2026-08-12
     release: 2
     mergedPR: 43
-    openPR: 96
-    closedIssue: 22
-    openIssue: 36
+    openPR: 101
+    closedIssue: 23
+    openIssue: 39
     commit: 183
   last60d:
     since: 2026-07-13
     release: 3
     mergedPR: 128
-    openPR: 118
-    closedIssue: 59
-    openIssue: 50
+    openPR: 123
+    closedIssue: 60
+    openIssue: 53
     commit: 374
   last90d:
     since: 2026-06-13
     release: 3
     mergedPR: 245
-    openPR: 126
-    closedIssue: 114
-    openIssue: 55
+    openPR: 131
+    closedIssue: 115
+    openIssue: 58
     commit: 508
   last180d:
     since: 2026-03-15
     release: 7
     mergedPR: 893
-    openPR: 126
-    closedIssue: 476
-    openIssue: 56
+    openPR: 131
+    closedIssue: 477
+    openIssue: 59
     commit: 1855
   last360d:
     since: 2025-09-16
     release: 17
     mergedPR: 1036
-    openPR: 126
-    closedIssue: 703
-    openIssue: 56
+    openPR: 131
+    closedIssue: 704
+    openIssue: 59
     commit: 2408
   last720d:
     since: 2024-09-21
     release: 17
     mergedPR: 1036
-    openPR: 126
-    closedIssue: 703
-    openIssue: 56
+    openPR: 131
+    closedIssue: 704
+    openIssue: 59
     commit: 2687
 total:
   release: 17
   mergedPR: 1039
-  openPR: 126
-  closedIssue: 704
-  openIssue: 56
+  openPR: 131
+  closedIssue: 705
+  openIssue: 59
   commit: 2687
 ---
 path: /home/runner/.x-repo/github.com/affaan-m/ECC
-collectedAt: 2026-09-11T04:26:53Z
+collectedAt: 2026-09-11T20:46:48Z
 loc:
   JavaScript:
     code: 163136
