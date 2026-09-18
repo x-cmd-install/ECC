@@ -14,7 +14,7 @@ x install ECC
 
 ## Code insight
 
-Total: **263,516** lines of code across **873** files in the top 5 languages.
+Total: **263,609** lines of code across **873** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
@@ -33,26 +33,26 @@ Total: **263,516** lines of code across **873** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v2.2.1` (2026-09-08)
-- **Last commit**: 2026-09-12
+- **Last commit**: 2026-09-17
 
 ## Popularity
 
-- **Stars**: 260,460 · **Forks**: 38,985 · **Open issues**: 778 · **Contributors**: 356
+- **Stars**: 261,295 · **Forks**: 39,113 · **Open issues**: 781 · **Contributors**: 357
 
 ## Totals (cumulative)
 
-- **Releases**: 17 · **Merged PRs**: 1052 · **Open PRs**: 150 · **Closed issues**: 709 · **Open issues**: 69 · **Commits**: 2700
+- **Releases**: 17 · **Merged PRs**: 1054 · **Open PRs**: 155 · **Closed issues**: 709 · **Open issues**: 72 · **Commits**: 2703
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-18 | 2 | 49 | 115 | 24 | 45 | 168 |
-| last60d | 2026-07-19 | 3 | 132 | 141 | 60 | 62 | 375 |
-| 90d | 2026-06-19 | 3 | 240 | 148 | 94 | 67 | 467 |
-| last180d | 2026-03-21 | 7 | 840 | 150 | 442 | 69 | 1743 |
-| 360d | 2025-09-22 | 17 | 1049 | 150 | 708 | 69 | 2421 |
-| last720d | 2024-09-27 | 17 | 1049 | 150 | 708 | 69 | 2700 |
+| 30d | 2026-08-19 | 2 | 50 | 119 | 24 | 47 | 170 |
+| last60d | 2026-07-20 | 3 | 131 | 146 | 58 | 65 | 377 |
+| 90d | 2026-06-20 | 3 | 242 | 153 | 93 | 70 | 469 |
+| last180d | 2026-03-22 | 6 | 833 | 155 | 397 | 72 | 1745 |
+| 360d | 2025-09-23 | 17 | 1051 | 155 | 708 | 72 | 2423 |
+| last720d | 2024-09-28 | 17 | 1051 | 155 | 708 | 72 | 2703 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for ECC lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260917.yml` · 2026-09-17T04:44:33Z._
+_Snapshot: `data/card/260918.yml` · 2026-09-18T04:30:01Z._
