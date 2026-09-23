@@ -4,7 +4,7 @@
 
 The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 
-[![x-cmd/install — ECC Code Quality Monitoring Repo Card](https://repo.x-cmd.io/ECC.svg)](https://x-cmd.com/install/ECC)
+[![x-cmd/install — ECC Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/ECC.svg)](https://x-cmd.com/install/ECC)
 
 ## Install
 
@@ -37,22 +37,22 @@ Total: **270,080** lines of code across **888** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 264,832 · **Forks**: 39,573 · **Open issues**: 795 · **Contributors**: 377
+- **Stars**: 265,557 · **Forks**: 39,688 · **Open issues**: 798 · **Contributors**: 377
 
 ## Totals (cumulative)
 
-- **Releases**: 17 · **Merged PRs**: 1100 · **Open PRs**: 141 · **Closed issues**: 728 · **Open issues**: 67 · **Commits**: 2811
+- **Releases**: 17 · **Merged PRs**: 1100 · **Open PRs**: 147 · **Closed issues**: 728 · **Open issues**: 70 · **Commits**: 2811
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 2 | 96 | 99 | 41 | 41 | 181 |
-| last60d | 2026-07-24 | 3 | 164 | 131 | 76 | 59 | 384 |
-| 90d | 2026-06-24 | 3 | 265 | 138 | 107 | 65 | 534 |
-| last180d | 2026-03-26 | 6 | 835 | 141 | 388 | 67 | 1668 |
-| 360d | 2025-09-27 | 17 | 1097 | 141 | 727 | 67 | 2492 |
-| last720d | 2024-10-02 | 17 | 1097 | 141 | 727 | 67 | 2811 |
+| 30d | 2026-08-24 | 2 | 95 | 98 | 40 | 41 | 181 |
+| last60d | 2026-07-25 | 3 | 162 | 136 | 75 | 60 | 384 |
+| 90d | 2026-06-25 | 3 | 263 | 144 | 104 | 68 | 534 |
+| last180d | 2026-03-27 | 6 | 828 | 147 | 385 | 70 | 1668 |
+| 360d | 2025-09-28 | 17 | 1097 | 147 | 727 | 70 | 2492 |
+| last720d | 2024-10-03 | 17 | 1097 | 147 | 727 | 70 | 2811 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for ECC lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T04:42:13Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T04:38:08Z._

@@ -4,7 +4,7 @@
 
 The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 
-[![x-cmd/install — ECC Code Quality Monitoring Repo Card](https://repo.x-cmd.io/ECC.svg?lang=zh)](https://x-cmd.com/install/ECC)
+[![x-cmd/install — ECC Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/ECC.svg?lang=zh)](https://x-cmd.com/install/ECC)
 
 ## 安装
 
@@ -37,22 +37,22 @@ x install ECC
 
 ## 流行度
 
-- **Star**: 264,832 · **Fork**: 39,573 · **开放 issue**: 795 · **贡献者**: 377
+- **Star**: 265,557 · **Fork**: 39,688 · **开放 issue**: 798 · **贡献者**: 377
 
 ## 累计统计
 
-- **发布数**: 17 · **已合并 PR**: 1100 · **开放 PR**: 141 · **已关闭 issue**: 728 · **开放 issue**: 67 · **提交数**: 2811
+- **发布数**: 17 · **已合并 PR**: 1100 · **开放 PR**: 147 · **已关闭 issue**: 728 · **开放 issue**: 70 · **提交数**: 2811
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 2 | 96 | 99 | 41 | 41 | 181 |
-| last60d | 2026-07-24 | 3 | 164 | 131 | 76 | 59 | 384 |
-| 90d | 2026-06-24 | 3 | 265 | 138 | 107 | 65 | 534 |
-| last180d | 2026-03-26 | 6 | 835 | 141 | 388 | 67 | 1668 |
-| 360d | 2025-09-27 | 17 | 1097 | 141 | 727 | 67 | 2492 |
-| last720d | 2024-10-02 | 17 | 1097 | 141 | 727 | 67 | 2811 |
+| 30d | 2026-08-24 | 2 | 95 | 98 | 40 | 41 | 181 |
+| last60d | 2026-07-25 | 3 | 162 | 136 | 75 | 60 | 384 |
+| 90d | 2026-06-25 | 3 | 263 | 144 | 104 | 68 | 534 |
+| last180d | 2026-03-27 | 6 | 828 | 147 | 385 | 70 | 1668 |
+| 360d | 2025-09-28 | 17 | 1097 | 147 | 727 | 70 | 2492 |
+| last720d | 2024-10-03 | 17 | 1097 | 147 | 727 | 70 | 2811 |
 
 ## 改进这些数据
 
@@ -63,4 +63,4 @@ ECC 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T04:42:14Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T04:38:09Z._
