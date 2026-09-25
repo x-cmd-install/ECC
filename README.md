@@ -33,26 +33,26 @@ Total: **270,080** lines of code across **888** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v2.2.1` (2026-09-08)
-- **Last commit**: 2026-09-21
+- **Last commit**: 2026-09-24
 
 ## Popularity
 
-- **Stars**: 266,267 · **Forks**: 39,792 · **Open issues**: 802 · **Contributors**: 376
+- **Stars**: 267,022 · **Forks**: 39,902 · **Open issues**: 807 · **Contributors**: 376
 
 ## Totals (cumulative)
 
-- **Releases**: 17 · **Merged PRs**: 1098 · **Open PRs**: 148 · **Closed issues**: 728 · **Open issues**: 74 · **Commits**: 2811
+- **Releases**: 17 · **Merged PRs**: 1099 · **Open PRs**: 153 · **Closed issues**: 728 · **Open issues**: 79 · **Commits**: 2812
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-25 | 2 | 86 | 94 | 38 | 45 | 181 |
-| last60d | 2026-07-26 | 3 | 153 | 137 | 74 | 64 | 384 |
-| 90d | 2026-06-26 | 3 | 258 | 145 | 104 | 72 | 534 |
-| last180d | 2026-03-28 | 6 | 818 | 148 | 384 | 74 | 1668 |
-| 360d | 2025-09-29 | 17 | 1095 | 148 | 727 | 74 | 2492 |
-| last720d | 2024-10-04 | 17 | 1095 | 148 | 727 | 74 | 2811 |
+| 30d | 2026-08-26 | 2 | 87 | 99 | 37 | 50 | 179 |
+| last60d | 2026-07-27 | 3 | 150 | 142 | 71 | 69 | 382 |
+| 90d | 2026-06-27 | 3 | 256 | 150 | 101 | 77 | 532 |
+| last180d | 2026-03-29 | 6 | 807 | 153 | 379 | 79 | 1666 |
+| 360d | 2025-09-30 | 17 | 1096 | 153 | 727 | 79 | 2490 |
+| last720d | 2024-10-05 | 17 | 1096 | 153 | 727 | 79 | 2812 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for ECC lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260924.yml` · 2026-09-24T04:34:18Z._
+_Snapshot: `data/card/260925.yml` · 2026-09-25T04:45:28Z._
