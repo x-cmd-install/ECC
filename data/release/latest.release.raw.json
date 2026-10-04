@@ -43,13 +43,13 @@
   "body": "# ECC 2.2.3\n\nECC 2.2.3 is a naming and release-reliability update. The project is called ECC\neverywhere it ships, starting with the `pi/core` profile, and the release\nworkflow now waits long enough for npm to serve a freshly published version.\n\n## Naming\n\n- `pi/core` no longer expands the project name: its README and the bundled\n  `blueprint` skill refer to ECC only. The profile contents are otherwise\n  unchanged: 123 curated skills and 24 prompt commands, 35,006 characters of\n  skill description text.\n- Downstream packagers need no changes. The package is still `ecc-pi-core`, the\n  directory is still `pi/core/`, and existing install paths keep working.\n\n## Release workflow\n\n- After `npm publish`, the release workflow polls the registry for up to five\n  minutes before verifying the published artifact. In 2.2.2 it gave up after\n  about 30 seconds while npm was still processing the upload, so the run failed\n  before promoting `latest` and creating the GitHub Release, and had to be\n  re-run.\n\nDownstream consumption is unchanged: poll `/releases`, download\n`archive/refs/tags/vX.Y.Z.tar.gz`, pin its sha256, copy `pi/core/`, and load it\noffline.\n",
   "reactions": {
     "url": "https://api.github.com/repos/affaan-m/ECC/releases/401417947/reactions",
-    "total_count": 3,
+    "total_count": 6,
     "+1": 0,
     "-1": 0,
     "laugh": 0,
-    "hooray": 1,
+    "hooray": 2,
     "confused": 0,
-    "heart": 2,
+    "heart": 4,
     "rocket": 0,
     "eyes": 0
   }
