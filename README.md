@@ -14,14 +14,14 @@ x install ECC
 
 ## Code insight
 
-Total: **366,758** lines of code across **1416** files in the top 5 languages.
+Total: **369,729** lines of code across **1434** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| JavaScript | 244,893 | 12,855 | 25,438 | 1019 |
+| JavaScript | 247,896 | 13,059 | 25,668 | 1036 |
 | Rust | 50,126 | 12 | 4,212 | 17 |
-| Python | 33,489 | 1,550 | 5,810 | 162 |
-| Json | 31,231 | 0 | 0 | 191 |
+| Python | 33,751 | 1,553 | 5,851 | 163 |
+| Json | 30,937 | 0 | 0 | 191 |
 | Sh | 4,160 | 742 | 646 | 27 |
 
 ## Source
@@ -33,26 +33,26 @@ Total: **366,758** lines of code across **1416** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v2.2.3` (2026-10-01)
-- **Last commit**: 2026-10-20
+- **Last commit**: 2026-10-26
 
 ## Popularity
 
-- **Stars**: 288,187 · **Forks**: 42,723 · **Open issues**: 899 · **Contributors**: 439
+- **Stars**: 288,963 · **Forks**: 42,833 · **Open issues**: 907 · **Contributors**: 447
 
 ## Totals (cumulative)
 
-- **Releases**: 19 · **Merged PRs**: 1276 · **Open PRs**: 173 · **Closed issues**: 771 · **Open issues**: 128 · **Commits**: 3957
+- **Releases**: 19 · **Merged PRs**: 1288 · **Open PRs**: 133 · **Closed issues**: 806 · **Open issues**: 101 · **Commits**: 4059
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-25 | 2 | 108 | 111 | 25 | 70 | 583 |
-| last60d | 2026-08-26 | 4 | 249 | 144 | 77 | 105 | 897 |
-| 90d | 2026-07-27 | 5 | 327 | 166 | 114 | 121 | 1161 |
-| last180d | 2026-04-28 | 7 | 899 | 173 | 276 | 128 | 1996 |
-| 360d | 2025-10-30 | 19 | 1273 | 173 | 770 | 128 | 3253 |
-| last720d | 2024-11-04 | 19 | 1273 | 173 | 770 | 128 | 3957 |
+| 30d | 2026-09-26 | 2 | 119 | 71 | 42 | 60 | 469 |
+| last60d | 2026-08-27 | 4 | 260 | 104 | 107 | 81 | 940 |
+| 90d | 2026-07-28 | 4 | 337 | 126 | 147 | 94 | 1198 |
+| last180d | 2026-04-29 | 7 | 898 | 133 | 307 | 101 | 2005 |
+| 360d | 2025-10-31 | 19 | 1285 | 133 | 805 | 101 | 3340 |
+| last720d | 2024-11-05 | 19 | 1285 | 133 | 805 | 101 | 4059 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for ECC lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261025.yml` · 2026-10-25T04:28:55Z._
+_Snapshot: `data/card/261026.yml` · 2026-10-26T04:31:16Z._
