@@ -37,22 +37,22 @@ Total: **421,300** lines of code across **1645** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 308,500 · **Forks**: 45,392 · **Open issues**: 988 · **Contributors**: 522
+- **Stars**: 309,170 · **Forks**: 45,492 · **Open issues**: 996 · **Contributors**: 522
 
 ## Totals (cumulative)
 
-- **Releases**: 19 · **Merged PRs**: 1517 · **Open PRs**: 72 · **Closed issues**: 893 · **Open issues**: 95 · **Commits**: 5174
+- **Releases**: 19 · **Merged PRs**: 1517 · **Open PRs**: 94 · **Closed issues**: 894 · **Open issues**: 102 · **Commits**: 5174
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-23 | 0 | 186 | 48 | 72 | 47 | 588 |
-| last60d | 2026-09-23 | 2 | 345 | 55 | 126 | 64 | 1431 |
-| 90d | 2026-08-24 | 4 | 491 | 64 | 197 | 77 | 1824 |
-| last180d | 2026-05-26 | 6 | 822 | 72 | 343 | 95 | 2367 |
-| 360d | 2025-11-27 | 19 | 1514 | 72 | 892 | 95 | 4141 |
-| last720d | 2024-12-02 | 19 | 1514 | 72 | 892 | 95 | 5174 |
+| 30d | 2026-10-24 | 0 | 186 | 70 | 51 | 53 | 386 |
+| last60d | 2026-09-24 | 2 | 340 | 76 | 125 | 70 | 1256 |
+| 90d | 2026-08-25 | 4 | 482 | 86 | 196 | 84 | 1722 |
+| last180d | 2026-05-27 | 6 | 821 | 94 | 338 | 102 | 2362 |
+| 360d | 2025-11-28 | 19 | 1514 | 94 | 893 | 102 | 4141 |
+| last720d | 2024-12-03 | 19 | 1514 | 94 | 893 | 102 | 5174 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for ECC lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261122.yml` · 2026-11-22T06:32:13Z._
+_Snapshot: `data/card/261123.yml` · 2026-11-23T07:22:45Z._
